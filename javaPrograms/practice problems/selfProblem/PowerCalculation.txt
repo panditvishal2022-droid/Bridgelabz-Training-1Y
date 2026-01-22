@@ -1,8 +1,0 @@
-class PowerCalculation {
-    public static void main(String[] args) {
-        double base =56.7;
-        double ex=65.7;
-        double result = Math.pow(base, ex);
-        System.out.println("Result = " + result);
-}
-}
